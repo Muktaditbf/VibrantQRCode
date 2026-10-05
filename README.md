@@ -13,7 +13,7 @@
 ## ✨ Features
 - 🎨 **4 gradient styles:** Classic, Navy→Teal, Purple→Gold and Sunset
 - 🛡️ **High error correction (level H)**, so the code still scans with a logo in the middle
-- ⚪ **Centre logo badge** drawn on top of the QR code
+- ⚪ **Facebook-style "f" logo** in a white disc at the centre
 - 🖼️ Exports a **PNG** with a timestamped filename
 
 ## 🚀 Run it
